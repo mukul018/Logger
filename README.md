@@ -42,8 +42,7 @@ No, advised to have the GNU on your system.</br>
 Minimum version required: gcc version 8.1.0
 
 
-- **Do the log files have to be saved in the system?**
-</br>
+- **Do the log files have to be saved in the system?**</br>
 Yes, it's a must to have log files in the system.
 
 <hr>
